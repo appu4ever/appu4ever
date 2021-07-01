@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on including GraphQL and React into my bootcamp project BestieLife.
-- 🌱 Learning React, GraphQL, DB Design and loving it !!!
+- 🌱 Learning React, GraphQL, TypeScript and loving it !!!
 - 📫 Reach me @ aparna.ashwin2021@gmail.com
 - 😄 Pronouns: She/Her
 
